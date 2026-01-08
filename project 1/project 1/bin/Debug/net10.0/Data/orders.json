@@ -1,0 +1,322 @@
+[
+  {
+    "Date": "2026-01-06T21:13:50.5497783+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 55,
+        "Price": 1.2
+      },
+      {
+        "ProductName": "Laptop",
+        "Quantity": 6,
+        "Price": 900
+      }
+    ],
+    "Total": 5466.0
+  },
+  {
+    "Date": "2026-01-06T21:15:05.8763434+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 2,
+        "Price": 900
+      }
+    ],
+    "Total": 1800
+  },
+  {
+    "Date": "2026-01-07T20:54:20.051409+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 2,
+        "Price": 900
+      }
+    ],
+    "Total": 1800
+  },
+  {
+    "Date": "2026-01-07T21:00:30.9670847+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 2,
+        "Price": 1.2
+      },
+      {
+        "ProductName": "Apple",
+        "Quantity": 2,
+        "Price": 1.2
+      },
+      {
+        "ProductName": "Apple",
+        "Quantity": 2,
+        "Price": 1.2
+      }
+    ],
+    "Total": 7.2
+  },
+  {
+    "Date": "2026-01-07T21:01:24.1831596+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 0,
+        "Price": 900
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-07T22:17:52.5093109+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 0,
+        "Price": 1.2
+      }
+    ],
+    "Total": 0.0
+  },
+  {
+    "Date": "2026-01-07T22:20:11.537805+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 0,
+        "Price": 900
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-08T02:14:45.7934281+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 1,
+        "Price": 1.2
+      }
+    ],
+    "Total": 1.2
+  },
+  {
+    "Date": "2026-01-08T02:45:02.153401+03:00",
+    "Items": [
+      {
+        "ProductName": "banana",
+        "Quantity": 33,
+        "Price": 5
+      }
+    ],
+    "Total": 165
+  },
+  {
+    "Date": "2026-01-08T02:47:20.3917458+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 0,
+        "Price": 100
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-08T02:48:21.4416286+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 0,
+        "Price": 900
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-08T02:56:34.797078+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 0,
+        "Price": 900
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-08T04:02:38.8287573+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 2,
+        "Price": 100
+      },
+      {
+        "ProductName": "Apple",
+        "Quantity": 3,
+        "Price": 1.2
+      }
+    ],
+    "Total": 203.6
+  },
+  {
+    "Date": "2026-01-08T04:04:18.2282895+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 1,
+        "Price": 100
+      }
+    ],
+    "Total": 100
+  },
+  {
+    "Date": "2026-01-08T04:07:56.7879749+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 1,
+        "Price": 1.2
+      },
+      {
+        "ProductName": "mobil",
+        "Quantity": 1,
+        "Price": 100
+      },
+      {
+        "ProductName": "laptop",
+        "Quantity": 1,
+        "Price": 900
+      }
+    ],
+    "Total": 1001.2
+  },
+  {
+    "Date": "2026-01-08T04:16:26.1725453+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 1,
+        "Price": 1.2
+      }
+    ],
+    "Total": 1.2
+  },
+  {
+    "Date": "2026-01-08T04:17:10.4062113+03:00",
+    "Items": [
+      {
+        "ProductName": "Apple",
+        "Quantity": 1,
+        "Price": 1.2
+      }
+    ],
+    "Total": 1.2
+  },
+  {
+    "Date": "2026-01-08T04:18:16.6711262+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 1,
+        "Price": 100
+      }
+    ],
+    "Total": 100
+  },
+  {
+    "Date": "2026-01-08T04:20:51.9333233+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 5,
+        "Price": 100
+      }
+    ],
+    "Total": 500
+  },
+  {
+    "Date": "2026-01-08T04:46:02.2708707+03:00",
+    "Items": [
+      {
+        "ProductName": "banana",
+        "Quantity": 2,
+        "Price": 5
+      },
+      {
+        "ProductName": "mobil",
+        "Quantity": 3,
+        "Price": 100
+      }
+    ],
+    "Total": 310
+  },
+  {
+    "Date": "2026-01-08T04:48:19.8221603+03:00",
+    "Items": [
+      {
+        "ProductName": "banana",
+        "Quantity": 2,
+        "Price": 5
+      },
+      {
+        "ProductName": "Apple",
+        "Quantity": 1,
+        "Price": 1.2
+      }
+    ],
+    "Total": 11.2
+  },
+  {
+    "Date": "2026-01-08T04:49:42.9637278+03:00",
+    "Items": [
+      {
+        "ProductName": "Laptop",
+        "Quantity": 0,
+        "Price": 900
+      }
+    ],
+    "Total": 0
+  },
+  {
+    "Date": "2026-01-08T05:01:54.1824256+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 2,
+        "Price": 100
+      }
+    ],
+    "Total": 200
+  },
+  {
+    "Date": "2026-01-08T05:06:10.4863506+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 1,
+        "Price": 100
+      }
+    ],
+    "Total": 100
+  },
+  {
+    "Date": "2026-01-08T05:09:11.0572509+03:00",
+    "Items": [
+      {
+        "ProductName": "mobil",
+        "Quantity": 1,
+        "Price": 100
+      },
+      {
+        "ProductName": "Apple",
+        "Quantity": 0,
+        "Price": 1.2
+      }
+    ],
+    "Total": 100.0
+  }
+]

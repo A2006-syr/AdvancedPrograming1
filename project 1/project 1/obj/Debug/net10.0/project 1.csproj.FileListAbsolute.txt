@@ -1,0 +1,17 @@
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\project 1.exe
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\project 1.deps.json
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\project 1.runtimeconfig.json
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\project 1.dll
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\project 1.pdb
+C:\Users\Aladdin\source\repos\project 1\project 1\bin\Debug\net10.0\Spectre.Console.dll
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.csproj.AssemblyReference.cache
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.AssemblyInfoInputs.cache
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.AssemblyInfo.cs
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.csproj.CoreCompileInputs.cache
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.csproj.Up2Date
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.dll
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\refint\project 1.dll
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.pdb
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\project 1.genruntimeconfig.cache
+C:\Users\Aladdin\source\repos\project 1\project 1\obj\Debug\net10.0\ref\project 1.dll
